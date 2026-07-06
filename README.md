@@ -9,8 +9,8 @@ The objective of this task was to perform Exploratory Data Analysis (EDA) and cr
 ## Dataset
 
 - **Dataset:** Spotify Tracks Dataset
-- **Records:** 6,300 songs
-- **Features:** 8 attributes
+- **Records:** 6,300 
+- **Features:** 8 
 
 ---
 
